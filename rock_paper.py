@@ -12,7 +12,7 @@ while True:
        break
    elif user_guess not in options:
        continue
-    elif user_guess=="Paper" and comp_guess=="rock":
+   elif user_guess=="Paper" and comp_guess=="rock":
        print("Hey U won!!!!!!!!!!!!!!!!!!!!")
        users_score+=1
        print("Your score is",users_score)
