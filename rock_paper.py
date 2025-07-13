@@ -33,4 +33,4 @@ while True:
        print("My score",comp_score)
        print("My guess was", comp_guess)
 print("U won",users_score,"times")
-print("I won",comp_score,"times")
+print("I win",comp_score,"times")
